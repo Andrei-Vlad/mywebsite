@@ -27,8 +27,12 @@ include: [assets]
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: minima
 
+=======
+theme: jekyll-theme-minimal
+>>>>>>> origin/master
 plugins:
   - jekyll-feed
 
